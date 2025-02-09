@@ -1,1 +1,5 @@
-# GlosarioInformatico
+# Glosario Informático
+
+## [Glosario](glosario.md)
+
+
