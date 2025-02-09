@@ -1,5 +1,5 @@
 # Glosario Informático
 
-## [Glosario](glosario.md)
+## [Glosario](Glosario.md)
 
 
