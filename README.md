@@ -14,16 +14,16 @@
 | [**OpenLDAP**](https://somebooks.es/12-5-que-es-openldap/)                      | Implementación de código abierto de LDAP, utilizada para autenticación y gestión de usuarios.              |
 | [**Active Directory**](https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)              | Servicio de directorio de Microsoft utilizado en redes empresariales para administrar usuarios y permisos. |
 | [**Diferencia entre HTTP y HTTPS**](https://www.codedonostia.com/wp-content/uploads/2021/06/http-vs-https.png) | HTTP transmite datos sin cifrar, mientras que HTTPS usa SSL/TLS para cifrado seguro.                       |
-| **Servicio DNS**                  | Traduce nombres de dominio en direcciones IP (ej. `google.com` → `142.250.190.78`).                        |
-| **Servicio web (Apache, Nginx)**  | Software que sirve páginas web; Apache y Nginx son servidores web populares.                               |
-| **Protocolo**                     | Conjunto de reglas para la comunicación en redes (ej. TCP/IP, HTTP, FTP).                                  |
-| **RDP**                           | Protocolo de escritorio remoto de Microsoft para acceder a computadoras de forma remota.                   |
-| **SSH**                           | Protocolo seguro para acceso remoto a servidores y ejecución de comandos.                                  |
-| **Cloud**                         | Infraestructura basada en la nube para almacenar y ejecutar aplicaciones en servidores remotos.            |
-| **AWS**                           | Amazon Web Services, plataforma de servicios en la nube de Amazon.                                         |
-| **Proxmox**                       | Plataforma de virtualización para gestionar máquinas virtuales y contenedores.                             |
-| **Google Cloud**                  | Plataforma de computación en la nube de Google.                                                            |
-| **Azure**                         | Plataforma en la nube de Microsoft.                                                                        |
-| **Administrador**                 | Persona encargada de gestionar sistemas, redes y servidores en una organización.                           |
-| **DevOps**                        | Cultura y prácticas para automatizar y mejorar la colaboración entre desarrollo y operaciones.             |
+| [**Servicio DNS**](https://www.duckdns.org/)                  | Traduce nombres de dominio en direcciones IP (ej. `google.com` → `142.250.190.78`).                        |
+| [**Servicio web (Apache, Nginx)**](https://nginx.org/)  | Software que sirve páginas web; Apache y Nginx son servidores web populares.                               |
+| [**Protocolo**](https://www.cloudflare.com/es-es/learning/network-layer/what-is-a-protocol/)                     | Conjunto de reglas para la comunicación en redes (ej. TCP/IP, HTTP, FTP).                                  |
+| [**RDP**](https://nordvpn.com/es/blog/acceso-remoto-rdp/)                           | Protocolo de escritorio remoto de Microsoft para acceder a computadoras de forma remota.                   |
+| [**SSH**](https://www.hostinger.es/tutoriales/que-es-ssh)                           | Protocolo seguro para acceso remoto a servidores y ejecución de comandos.                                  |
+| [**Cloud**](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-the-cloud/)                         | Infraestructura basada en la nube para almacenar y ejecutar aplicaciones en servidores remotos.            |
+| [**AWS**](https://aws.amazon.com/es/)                          | Amazon Web Services, plataforma de servicios en la nube de Amazon.                                         |
+| [**Proxmox**](https://www.proxmox.com/en/)                       | Plataforma de virtualización para gestionar máquinas virtuales y contenedores.                             |
+| [**Google Cloud**](https://cloud.google.com/?hl=es)                  | Plataforma de computación en la nube de Google.                                                            |
+| [**Azure**]https://azure.microsoft.com/es-es()                         | Plataforma en la nube de Microsoft.                                                                        |
+| [**Administrador**](https://fprodrigocaro.org/wp2020/fp-grado-superior-asir/)                 | Persona encargada de gestionar sistemas, redes y servidores en una organización.                           |
+| [**DevOps**](https://shalb.com/wp-content/uploads/2019/11/Devops1.jpeg)                        | Cultura y prácticas para automatizar y mejorar la colaboración entre desarrollo y operaciones.             |
 
