@@ -7,13 +7,13 @@
 | [**Dominio**](https://upanama.educativa.org/archivos/repositorio/6000/6126/html/53_nombr.htm)                       | Nombre que identifica una página web en Internet (ej. `ejemplo.com`).                                      |
 | [**URL**](https://www.ejemplos.co/30-ejemplos-de-url/)                           | Dirección completa de un recurso en la web (ej. `https://ejemplo.com/pagina`).                             |
 | [**Puerto 21**](https://books.spartan-cybersec.com/cppj/networking-for-juniors/puertos-y-servicios/puerto-21-ftp)                     | Usado para FTP (File Transfer Protocol) para transferencias de archivos.                                   |
-| **Puerto 22**                     | Usado para SSH (Secure Shell) para acceso remoto seguro a servidores.                                      |
-| **Puerto 80**                     | Usado para HTTP (Hypertext Transfer Protocol), tráfico web no cifrado.                                     |
-| **Puerto 443**                    | Usado para HTTPS (HTTP Secure), tráfico web cifrado.                                                       |
-| **Servicio de directorio**        | Base de datos para almacenar y administrar información de usuarios y dispositivos en una red.              |
-| **OpenLDAP**                      | Implementación de código abierto de LDAP, utilizada para autenticación y gestión de usuarios.              |
-| **Active Directory**              | Servicio de directorio de Microsoft utilizado en redes empresariales para administrar usuarios y permisos. |
-| **Diferencia entre HTTP y HTTPS** | HTTP transmite datos sin cifrar, mientras que HTTPS usa SSL/TLS para cifrado seguro.                       |
+| [**Puerto 22**](https://books.spartan-cybersec.com/cppj/networking-for-juniors/puertos-y-servicios/puerto-22-ssh)                     | Usado para SSH (Secure Shell) para acceso remoto seguro a servidores.                                      |
+| [**Puerto 80**](https://books.spartan-cybersec.com/cppj/networking-for-juniors/puertos-y-servicios/puerto-80-http)                     | Usado para HTTP (Hypertext Transfer Protocol), tráfico web no cifrado.                                     |
+| [**Puerto 443**](https://www.expressvpn.com/es/blog/puerto-https-443-que-es-es-seguro-abrirlo/#:~:text=El%20puerto%20443%20funciona%20utilizando,o%20de%20una%20red%20interna.)                    | Usado para HTTPS (HTTP Secure), tráfico web cifrado.                                                       |
+| [**Servicio de directorio**](https://www.sergio-gonzalez.com/doc/10-ldap-samba-cups-pykota/html/openldap-introduccion.html)        | Base de datos para almacenar y administrar información de usuarios y dispositivos en una red.              |
+| [**OpenLDAP**](https://somebooks.es/12-5-que-es-openldap/)                      | Implementación de código abierto de LDAP, utilizada para autenticación y gestión de usuarios.              |
+| [**Active Directory**](https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)              | Servicio de directorio de Microsoft utilizado en redes empresariales para administrar usuarios y permisos. |
+| [**Diferencia entre HTTP y HTTPS**](https://www.codedonostia.com/wp-content/uploads/2021/06/http-vs-https.png) | HTTP transmite datos sin cifrar, mientras que HTTPS usa SSL/TLS para cifrado seguro.                       |
 | **Servicio DNS**                  | Traduce nombres de dominio en direcciones IP (ej. `google.com` → `142.250.190.78`).                        |
 | **Servicio web (Apache, Nginx)**  | Software que sirve páginas web; Apache y Nginx son servidores web populares.                               |
 | **Protocolo**                     | Conjunto de reglas para la comunicación en redes (ej. TCP/IP, HTTP, FTP).                                  |
