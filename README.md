@@ -1,5 +1,8 @@
 
-<p align="center">Glosario Informático</p>
+<div style="text-align: center;">
+  <h1>Glosario Informático</h1>
+</div>
+
 
 | **Concepto**                      | **Descripción**                                                                                            |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------- |
