@@ -3,8 +3,8 @@
 
 | **Concepto**                      | **Descripción**                                                                                            |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **P**                             | Abreviatura de "Puerto", utilizado en redes para identificar servicios específicos en un servidor.         |
-| **Dominio**                       | Nombre que identifica una página web en Internet (ej. `ejemplo.com`).                                      |
+| [**P**](https://www.akamai.com/es/glossary/what-are-ports)                             | Abreviatura de "Puerto", utilizado en redes para identificar servicios específicos en un servidor.         |
+| [**Dominio**](https://upanama.educativa.org/archivos/repositorio/6000/6126/html/53_nombr.htm)                       | Nombre que identifica una página web en Internet (ej. `ejemplo.com`).                                      |
 | **URL**                           | Dirección completa de un recurso en la web (ej. `https://ejemplo.com/pagina`).                             |
 | **Puerto 21**                     | Usado para FTP (File Transfer Protocol) para transferencias de archivos.                                   |
 | **Puerto 22**                     | Usado para SSH (Secure Shell) para acceso remoto seguro a servidores.                                      |
