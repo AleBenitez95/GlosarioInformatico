@@ -5,8 +5,8 @@
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | [**P**](https://www.akamai.com/es/glossary/what-are-ports)                             | Abreviatura de "Puerto", utilizado en redes para identificar servicios específicos en un servidor.         |
 | [**Dominio**](https://upanama.educativa.org/archivos/repositorio/6000/6126/html/53_nombr.htm)                       | Nombre que identifica una página web en Internet (ej. `ejemplo.com`).                                      |
-| **URL**                           | Dirección completa de un recurso en la web (ej. `https://ejemplo.com/pagina`).                             |
-| **Puerto 21**                     | Usado para FTP (File Transfer Protocol) para transferencias de archivos.                                   |
+| [**URL**](https://www.ejemplos.co/30-ejemplos-de-url/)                           | Dirección completa de un recurso en la web (ej. `https://ejemplo.com/pagina`).                             |
+| [**Puerto 21**](https://books.spartan-cybersec.com/cppj/networking-for-juniors/puertos-y-servicios/puerto-21-ftp)                     | Usado para FTP (File Transfer Protocol) para transferencias de archivos.                                   |
 | **Puerto 22**                     | Usado para SSH (Secure Shell) para acceso remoto seguro a servidores.                                      |
 | **Puerto 80**                     | Usado para HTTP (Hypertext Transfer Protocol), tráfico web no cifrado.                                     |
 | **Puerto 443**                    | Usado para HTTPS (HTTP Secure), tráfico web cifrado.                                                       |
