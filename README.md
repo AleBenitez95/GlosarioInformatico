@@ -23,7 +23,7 @@
 | [**AWS**](https://aws.amazon.com/es/)                          | Amazon Web Services, plataforma de servicios en la nube de Amazon.                                         |
 | [**Proxmox**](https://www.proxmox.com/en/)                       | Plataforma de virtualización para gestionar máquinas virtuales y contenedores.                             |
 | [**Google Cloud**](https://cloud.google.com/?hl=es)                  | Plataforma de computación en la nube de Google.                                                            |
-| [**Azure**]https://azure.microsoft.com/es-es()                         | Plataforma en la nube de Microsoft.                                                                        |
+| [**Azure**](https://azure.microsoft.com/es-es())                        | Plataforma en la nube de Microsoft.                                                                        |
 | [**Administrador**](https://fprodrigocaro.org/wp2020/fp-grado-superior-asir/)                 | Persona encargada de gestionar sistemas, redes y servidores en una organización.                           |
 | [**DevOps**](https://shalb.com/wp-content/uploads/2019/11/Devops1.jpeg)                        | Cultura y prácticas para automatizar y mejorar la colaboración entre desarrollo y operaciones.             |
 
