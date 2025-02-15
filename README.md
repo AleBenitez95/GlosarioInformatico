@@ -1,7 +1,7 @@
 # Glosario Informático
 
 
-| ### **Concepto**                      | ### **Descripción**                                                                                            |
+| **Concepto**                      | **Descripción**                                                                                            |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | [**P**](https://www.akamai.com/es/glossary/what-are-ports)                             | Abreviatura de "Puerto", utilizado en redes para identificar servicios específicos en un servidor.         |
 | [**Dominio**](https://upanama.educativa.org/archivos/repositorio/6000/6126/html/53_nombr.htm)                       | Nombre que identifica una página web en Internet (ej. `ejemplo.com`).                                      |
